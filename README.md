@@ -1,10 +1,12 @@
-# DINNGuS (Determining Insects using Neural Networks by their Genus and/or Species) by USDA-ARS
+# DINNGuS by USDA-ARS
 
-# Topics
-- [Software Purpose](#custom-dataset-fundamentals)
-- [Software Structure] (#software-structure)
-- [Modifying DINNGuS for Your Own Use] (#modifying-DINNGuS-foe-your-own-use)
-- [About the Devs] (#about-the-devs)
+## Determining Insects using Neural Networks by their Genus and/or Species
+
+## Topics
+- [Software Purpose](#software-purpose)
+- [Software Structure](#software-structure)
+- [Modifying DINNGuS for Your Own Use](#modifying-DINNGuS-foe-your-own-use)
+- [About the Devs](#about-the-devs)
 
 ## Software Purpose
 
