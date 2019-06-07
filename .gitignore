@@ -1,0 +1,8 @@
+#Ignore photos
+*.jpg
+
+#Ignore data in general tbh
+data/
+
+#Ignore Polygonia
+Polygonia_photos/
