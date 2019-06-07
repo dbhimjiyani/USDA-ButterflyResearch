@@ -65,10 +65,3 @@ if __name__ == '__main__':
     print(sp_float)
     print(image)
 
-    # for i in range((len(loader))):
-    #     temp = loader[i]
-
-    # # show images
-    # imshow(torchvision.utils.make_grid(images))
-    # # print labels
-    # print(' '.join('%5s' % classes[labels[j]] for j in range(4)))
