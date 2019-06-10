@@ -1,6 +1,10 @@
-# DINNGuS by USDA-ARS
+<p align="center"><img width="40%" src="logo.jpg" /></p>
 
+--------------------------------------------------------------------------------
+
+# DINNGuS by USDA-ARS 
 ## Determining Insects using Neural Networks by their Genus and/or Species
+## For the Pacific Basin Agri. Research Center - Hawai\`i
 
 ## Topics
 - [Software Purpose](#software-purpose)
