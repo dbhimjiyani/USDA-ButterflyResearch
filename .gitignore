@@ -1,6 +1,3 @@
-#Ignore photos
-*.jpg
-
 #Ignore data in general tbh
 data/
 

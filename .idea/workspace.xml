@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90125d0b-c388-4652-9ad7-7c9f42f20859" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NameExtractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/NameExtractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrainTorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainTorch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,16 +13,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TrainTorch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="35" column="76" selection-start-line="29" selection-start-column="3" selection-end-line="35" selection-end-column="130" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#2886#2901#0" />
+                <element signature="e#1105#1130#0" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NameExtractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/common/Data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-146" />
           </provider>
         </entry>
       </file>
@@ -65,8 +85,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2064" />
-    <option name="y" value="225" />
+    <option name="x" value="1825" />
+    <option name="y" value="55" />
     <option name="width" value="1973" />
     <option name="height" value="2112" />
   </component>
@@ -83,6 +103,17 @@
             <path>
               <item name="DINNGuS" type="b2602c69:ProjectViewProjectNode" />
               <item name="DINNGuS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DINNGuS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DINNGuS" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DINNGuS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DINNGuS" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DINNGuS" type="b2602c69:ProjectViewProjectNode" />
@@ -216,9 +247,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.TrainTorch" />
+        <item itemvalue="Python.NameExtractor" />
         <item itemvalue="Python.CreateCSV" />
         <item itemvalue="Python.Train" />
-        <item itemvalue="Python.NameExtractor" />
       </list>
     </recent_temporary>
   </component>
@@ -245,20 +276,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1376" y="150" width="1315" height="1408" extended-state="0" />
+    <frame x="1217" y="37" width="1315" height="1408" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23786794" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31424025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38166144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32445142" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38136256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32419735" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32967892" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32889584" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32889584" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3275862" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.2834769" />
@@ -322,16 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NameExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda3/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
@@ -346,13 +367,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pandas/core/series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2064">
+          <caret line="3590" selection-start-line="3590" selection-end-line="3590" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/common/Data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TrainTorch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="493">
+          <caret line="35" column="76" selection-start-line="29" selection-start-column="3" selection-end-line="35" selection-end-column="130" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#2886#2901#0" />
+            <element signature="e#1105#1130#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NameExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="87" column="16" lean-forward="true" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
