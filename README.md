@@ -1,5 +1,4 @@
-## Butterfly Species Analysis Using Computer Vision (Python, Pytorch)
-## Determining Insects using Neural Networks by their Genus and/or Species (for the Pacific Basin Agri. Research Center - Hawai\`i)
+## Butterfly Species Analysis Using Computer Vision (Python, Pytorch) for US Dept of Ag's  Pacific Basin Research Center in Hawai\`i
 
 ## Topics
 - [Software Purpose](#software-purpose)
