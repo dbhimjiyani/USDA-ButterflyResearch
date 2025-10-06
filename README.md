@@ -1,8 +1,4 @@
-<p align="center"><img src="logo.jpg" /></p>
-
---------------------------------------------------------------------------------
-
-# DINNGuS by USDA-ARS 
+## Butterfly Species Analysis Using Computer Vision (Python, Pytorch)
 ## Determining Insects using Neural Networks by their Genus and/or Species (for the Pacific Basin Agri. Research Center - Hawai\`i)
 
 ## Topics
