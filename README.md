@@ -18,7 +18,7 @@ Model File: https://colab.research.google.com/drive/1ORcE7ffEYYYge2B6BogDTH_xdG8
 Predict File: https://colab.research.google.com/drive/1bR2tweKloPXbV_gDP_mWpfV0GWhH3oqC?usp=sharing
 
 ## Modifying DINNGuS for Your Own Use
-I will provide detailed information her about how you can modify DINNGuS to make your own prediction system. To be honest, I don't think I hard-coded anything. I have also kept it as intuitive as possible for Dr. Dupuis' team. Until I post more, feel free to hit me up via email. 
+I will provide detailed information here about how you can modify the solution to make your own prediction system. To be honest, I don't think I hard-coded anything. I have also kept it as intuitive as possible for Dr. Dupuis' team. Until I post more, feel free to hit me up via email. 
 
 ## About the Devs
 Devanshi Bhimjiyani, contact me at devanshi.bhimjiyani@gmail.com if you have specific questions.
